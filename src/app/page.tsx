@@ -6,7 +6,9 @@ import { Button, Feature } from "@/types";
 import { signIn } from "next-auth/react";
 import { prisma } from "@/lib/db";
 
-const Home = () => {
+type Props = {};
+
+const Home = async (props: Props) => {
   const homepage = getListPage("homepage/_index.md");
   const { frontmatter } = homepage;
   const {

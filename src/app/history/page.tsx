@@ -21,7 +21,7 @@ const History = async (props: Props) => {
           <div className="flex justify-between">
             <CardTitle className="text-2xl font-bold">History</CardTitle>
             <Link className={buttonVariants()} href="/quiz-dashboard">
-              <LucideLayoutDashboard className="mr-2 text-light" />
+              <LucideLayoutDashboard className="mr-2 text-light font-bold" />
               Back
             </Link>
           </div>
