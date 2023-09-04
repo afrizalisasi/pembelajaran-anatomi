@@ -43,10 +43,6 @@ const Logo = ({ src }: { src?: string }) => {
           src={logoPath}
           alt={title}
           priority
-          style={{
-            height: logo_height.replace("px", "") + "px",
-            width: logo_width.replace("px", "") + "px",
-          }}
         />
       ) : logo_text ? (
         logo_text

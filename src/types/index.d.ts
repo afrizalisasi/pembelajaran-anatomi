@@ -53,13 +53,6 @@ export type Feature = {
   title: string;
 };
 
-export type Testimonial = {
-  name: string;
-  designation: string;
-  avatar: string;
-  content: string;
-};
-
 export type Call_to_action = {
   enable?: boolean;
   title: string;

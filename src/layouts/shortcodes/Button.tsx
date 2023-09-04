@@ -20,7 +20,7 @@ const Button = ({
       }`}
       className={`btn mb-4 me-4 ${
         style === "outline" ? "btn-outline-primary" : "btn-primary"
-      } border-primary no-underline hover:text-white`}
+      } border-primary no-underline hover:text-white font-bold`}
     >
       {label}
     </Link>

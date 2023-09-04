@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Nextplate",
+    "title": "AcaTomy",
     "base_url": "https://nextplate.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
@@ -19,7 +19,7 @@
     "default_theme": "system",
     "pagination": 2,
     "summary_length": 200,
-    "blog_folder": "blog"
+    "blog_folder": "topic"
   },
 
   "params": {
@@ -30,7 +30,7 @@
   "navigation_button": {
     "enable": true,
     "label": "Get Started",
-    "link": "https://github.com/zeon-studio/nextplate"
+    "link": "/topic"
   },
 
   "disqus": {
