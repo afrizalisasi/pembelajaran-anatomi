@@ -7,7 +7,7 @@
   "packageManager": "yarn@1.22.19",
   "scripts": {
     "dev": "next dev",
-    "build": "npx prisma generate && next build",
+    "build": "npm add -D encoding && npx prisma generate && next build",
     "start": "next start",
     "lint": "next lint",
     "format": "prettier -w ./src",
@@ -74,6 +74,7 @@
     "@types/react-dom": "18.2.7",
     "@types/string-similarity": "^4.0.0",
     "autoprefixer": "^10.4.15",
+    "encoding": "^0.1.13",
     "eslint": "^8.47.0",
     "eslint-config-next": "13.4.19",
     "postcss": "^8.4.28",
