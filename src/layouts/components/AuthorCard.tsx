@@ -1,3 +1,4 @@
+"use client";
 import Social from "@/components/Social";
 import ImageFallback from "@/helpers/ImageFallback";
 import { plainify } from "@/lib/utils/textConverter";
