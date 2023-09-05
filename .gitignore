@@ -5,7 +5,7 @@
 /.pnp
 .json/
 .pnp.js
-.env
+yarn.lock
 package-lock.json
 
 # testing
