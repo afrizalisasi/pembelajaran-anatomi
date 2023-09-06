@@ -1,10 +1,10 @@
+"use client && npm i fs";
+
 import ImageFallback from "@/helpers/ImageFallback";
 import { getListPage } from "@/lib/contentParser";
 import { markdownify } from "@/lib/utils/textConverter";
 import SeoMeta from "@/partials/SeoMeta";
 import { Button, Feature } from "@/types";
-import { signIn } from "next-auth/react";
-import { prisma } from "@/lib/db";
 
 type Props = {};
 

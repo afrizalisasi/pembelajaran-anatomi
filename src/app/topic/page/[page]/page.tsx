@@ -1,3 +1,5 @@
+"use client && npm i fs";
+
 import BlogCard from "@/components/BlogCard";
 import Pagination from "@/components/Pagination";
 import config from "@/config/config.json";

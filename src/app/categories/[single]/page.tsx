@@ -1,3 +1,5 @@
+"use client && npm i fs";
+
 import BlogCard from "@/components/BlogCard";
 import config from "@/config/config.json";
 import { getSinglePage } from "@/lib/contentParser";

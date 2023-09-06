@@ -1,3 +1,5 @@
+"use client && npm i fs";
+
 import BlogCard from "@/components/BlogCard";
 import Disqus from "@/components/Disqus";
 import Share from "@/components/Share";

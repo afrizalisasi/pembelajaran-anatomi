@@ -1,3 +1,5 @@
+"use client && npm i fs";
+
 import ImageFallback from "@/helpers/ImageFallback";
 import MDXContent from "@/helpers/MDXContent";
 import { getListPage } from "@/lib/contentParser";
