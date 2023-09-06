@@ -1,5 +1,3 @@
-"use client && npm i fs";
-
 import config from "@/config/config.json";
 import Search from "@/layouts/Search";
 import { getSinglePage } from "@/lib/contentParser";

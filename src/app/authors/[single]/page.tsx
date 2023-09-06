@@ -1,5 +1,3 @@
-"use client && npm i fs";
-
 import BlogCard from "@/components/BlogCard";
 import Social from "@/components/Social";
 import config from "@/config/config.json";

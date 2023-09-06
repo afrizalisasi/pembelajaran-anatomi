@@ -1,5 +1,3 @@
-"use client && npm i fs";
-
 import MDXContent from "@/helpers/MDXContent";
 import { getSinglePage } from "@/lib/contentParser";
 import PageHeader from "@/partials/PageHeader";

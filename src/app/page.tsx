@@ -1,14 +1,11 @@
-"use client && npm i fs";
-
 import ImageFallback from "@/helpers/ImageFallback";
 import { getListPage } from "@/lib/contentParser";
 import { markdownify } from "@/lib/utils/textConverter";
 import SeoMeta from "@/partials/SeoMeta";
 import { Button, Feature } from "@/types";
+import { GetStaticProps } from "next";
 
-type Props = {};
-
-const Home = async (props: Props) => {
+const Home = () => {
   const homepage = getListPage("homepage/_index.md");
   const { frontmatter } = homepage;
   const {

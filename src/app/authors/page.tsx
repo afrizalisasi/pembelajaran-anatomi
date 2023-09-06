@@ -1,5 +1,3 @@
-"use client && npm i fs";
-
 import AuthorCard from "@/components/AuthorCard";
 import { getListPage, getSinglePage } from "@/lib/contentParser";
 import PageHeader from "@/partials/PageHeader";
