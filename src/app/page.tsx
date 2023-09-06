@@ -5,7 +5,7 @@ import SeoMeta from "@/partials/SeoMeta";
 import { Button, Feature } from "@/types";
 import { GetStaticProps } from "next";
 
-const Home = () => {
+const Home = async () => {
   const homepage = getListPage("homepage/_index.md");
   const { frontmatter } = homepage;
   const {
