@@ -31,7 +31,7 @@ export interface INavigationLink {
 const Header = () => {
   // distructuring the main menu from menu object
   const { main }: { main: INavigationLink[] } = menu;
-  const { navigation_button, settings } = config;
+  const { home_button, topics_button, quiz_button, settings } = config;
   // get current path
   // const pathname = usePathname();
 
@@ -79,15 +79,36 @@ const Header = () => {
           id="nav-menu"
           className="navbar-nav order-3 hidden w-full pb-6 lg:order-1 lg:flex lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8"
         >
-          <Link href="/">
-            Home
-          </Link>
-          <Link href="/topic">
-            Topics
-          </Link>
-          <Link href="/quiz-dashboard">
-            Quiz
-          </Link>
+          {home_button.enable && (
+            <li className="nav-item">
+              <Link
+                href={home_button.link}
+                className="nav-link block"
+              >
+                {home_button.label}
+              </Link>
+            </li>
+          )}
+          {topics_button.enable && (
+            <li className="nav-item">
+              <Link
+                href={topics_button.link}
+                className="nav-link block"
+              >
+                {topics_button.label}
+              </Link>
+            </li>
+          )}
+          {quiz_button.enable && (
+            <li className="nav-item">
+              <Link
+                href={quiz_button.link}
+                className="nav-link block"
+              >
+                {quiz_button.label}
+              </Link>
+            </li>
+          )}
         </ul>
         <Navbar></Navbar>
       </nav>

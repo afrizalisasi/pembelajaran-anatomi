@@ -17,7 +17,7 @@ export const metadata = {
 const Dasboard = async (props: Props) => {
   const session = await getAuthSession();
   if (!session?.user) {
-    redirect("/");
+    redirect("/needLogin");
   }
 
   return (

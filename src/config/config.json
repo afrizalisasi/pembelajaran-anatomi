@@ -33,6 +33,24 @@
     "link": "/topic"
   },
 
+  "home_button": {
+    "enable": true,
+    "label": "Home",
+    "link": "/"
+  },
+
+  "topics_button": {
+    "enable": true,
+    "label": "Topics",
+    "link": "/topic"
+  },
+
+  "quiz_button": {
+    "enable": true,
+    "label": "Quiz",
+    "link": "/quiz-dashboard"
+  },
+
   "disqus": {
     "enable": true,
     "shortname": "themefisher-template",

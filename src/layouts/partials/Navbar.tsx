@@ -27,7 +27,7 @@ const Navbar = async () => {
           {session?.user ? (
             <UserAccountNav user={session.user}/>
           ) : (
-            <SignInButton text={"Get Started"} />
+            <SignInButton text={"Login"} />
           )}
     </div>
   )
