@@ -6,7 +6,7 @@
   "license": "MIT",
   "packageManager": "yarn@1.22.19",
   "scripts": {
-    "dev": "next dev",
+    "dev": "set PORT=80 && next dev",
     "build": "npx prisma generate && next build",
     "start": "next start",
     "lint": "next lint",
