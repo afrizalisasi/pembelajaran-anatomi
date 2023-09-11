@@ -7,7 +7,7 @@ type Props = { text: string };
 const SignInButton = ({ text }: Props) => { 
   return (
     <button
-      className="btn btn-outline-primary btn-sm hidden lg:inline-block"
+      className="mr-5 btn btn-outline-primary btn-sm hidden lg:inline-block"
       onClick={() => {
         signIn("google").catch(console.error);
       }}
