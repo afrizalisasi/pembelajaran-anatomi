@@ -190,7 +190,7 @@ const MCQ = ({ game }: Props) => {
             <Button
               key={option}
               variant={selectedChoice === index ? "default" : "outline"}
-              className="justify-start w-full py-8 mb-4 font-bold"
+              className="justify-start w-full py-8 mb-4 font-bold focus:text-white dark:focus:text-black"
               onClick={() => setSelectedChoice(index)}
             >
               <div className="flex items-center justify-start">
@@ -204,7 +204,7 @@ const MCQ = ({ game }: Props) => {
         })}
         <Button
           variant="default"
-          className="mt-2 text-white font-bold"
+          className="mt-2 text-white dark:text-black font-bold"
           size="lg"
           disabled={isChecking || hasEnded}
           onClick={() => {
