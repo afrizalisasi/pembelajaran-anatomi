@@ -17,7 +17,7 @@ draft: false
 3. Describe the classification of bones.
 
 ### Introduction:
-The skeletal system forms the structural framework of the body and plays a crucial role in supporting and protecting various organs. It also serves as a site for mineral storage and blood cell production.
+The skeletal system is a crucial component of the human body, providing support, protection, and facilitating movement. It is made up of bones, cartilage, ligaments, and tendons. It also serves as a site for mineral storage and blood cell production. The human skeleton consists of over 200 bones of various shapes and sizes. These bones are classified into two main categories: axial skeleton (including the skull, vertebral column, and ribcage) and appendicular skeleton (including the limbs and girdles).
 
 ### Functions of the Skeletal System:
 
@@ -35,8 +35,8 @@ The skeletal system forms the structural framework of the body and plays a cruci
 4. **Ligaments**: Ligaments are strong, fibrous bands that connect bones to other bones, providing stability to joints.
 5. **Tendons**: Tendons attach muscles to bones, allowing muscles to pull on bones and create movement.
 
-### Classification of Bones:
-Bones are classified into several categories based on their shape and structure:
+### Bones
+Bones are composed of compact bone tissue on the outer surface and spongy or cancellous bone tissue on the inner side. They contain blood vessels, nerves, and bone marrow. Bones are classified into several categories based on their shape and structure:
 
 1. **Long Bones**: These bones are longer than they are wide and have a shaft and two ends. Examples include the femur and humerus.
 2. **Short Bones**: Short bones are roughly cube-shaped and provide stability and support. The bones of the wrist (carpals) and ankle (tarsals) are examples.
@@ -44,18 +44,28 @@ Bones are classified into several categories based on their shape and structure:
 4. **Irregular Bones**: Irregular bones have complex shapes and do not fit into the above categories. The vertebrae and facial bones are examples.
 5. **Sesamoid Bones**: Sesamoid bones develop within tendons and help to protect them from excessive wear. The patella (kneecap) is a notable example.
 
+Bones grow and develop throughout a person's life. During childhood and adolescence, the growth plates at the ends of long bones allow for longitudinal growth. This process is regulated by hormones like growth hormone and sex hormones.
+
+Bones are constantly being remodeled. Old bone tissue is broken down by cells called osteoclasts, and new bone tissue is formed by osteoblasts. This dynamic process helps maintain bone strength and adapt to changing mechanical loads.
+
 ### Video
 
 <Youtube id="rDGqkMHPDqE" title="Play:Youtube"/>
 
 ### Summary:
->The skeletal system consists of bones and joints, which provide support, protection, and movement. Bones are classified based on their shape and structure, including long bones, short bones, flat bones, irregular bones, and sesamoid bones.
+>The skeletal system, comprised of bones, cartilage, ligaments, and tendons, plays a critical role in the human body, providing support, protection, facilitating movement, storing minerals, and producing blood cells. It consists of over 200 bones categorized into axial (skull, vertebral column, ribcage) and appendicular (limbs and girdles) skeletons. Functions include support, protection of vital organs, muscle-anchoring for movement, mineral storage (calcium, phosphorus), and blood cell production in bone marrow. Bones vary in shape (long, short, flat, irregular, sesamoid) and continuously grow and remodel, primarily during childhood and adolescence, regulated by hormones. Osteoclasts break down old bone, while osteoblasts form new tissue, maintaining bone strength and adapting to mechanical loads.
 
 ### Individual Quiz:
 
 1. What is the main function of the skeletal system?
 2. Which type of bone is cube-shaped and provides stability?
 3. Give an example of an irregular bone.
+
+#### Reading Sources
+
+1. Atlas of Human Anatomy, Sixth Edition - Frank H. Netter, M.D
+2. Grays Anatomy for Students 2nd Edition
+3. Sobotta Atlas Of Human Anatomy
 
 ### More Quiz?
 

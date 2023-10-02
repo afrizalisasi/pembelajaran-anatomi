@@ -19,7 +19,17 @@ draft: false
 3. Identify the major muscles of the body.
 
 ### Introduction:
-The muscular system is responsible for movement, stability, and generating heat. It works in coordination with the skeletal system to produce various types of body movements.
+The muscular system is a critical component of the human body responsible for enabling movement, maintaining posture, generating heat, and facilitating essential bodily functions. It works in coordination with the skeletal system to produce various types of body movements.
+
+- **Muscle Structure**: Muscles are composed of bundles of muscle fibers, which, in turn, consist of myofibrils. Myofibrils contain contractile proteins called actin and myosin, which allow for muscle contractions. A network of blood vessels and nerves supplies muscles.
+
+- **Muscle Contraction**: Muscle contraction occurs when nerve signals stimulate muscle fibers. Actin and myosin filaments slide past each other, resulting in muscle shortening and tension generation. This contraction mechanism is known as the sliding filament theory.
+
+- **Muscle Groups**: Muscles are organized into groups based on their location and function. For example, the quadriceps group in the thigh extends the knee, while the biceps group in the arm flexes the elbow.
+
+- **Muscle Attachments**: Muscles attach to bones via tendons, which are tough, fibrous connective tissues. The point where a muscle attaches to a bone is called the muscle's origin and insertion.
+
+- The muscular system can be affected by various medical conditions, including muscle strains, myopathies (muscle disorders), and neuromuscular diseases that impact nerve-muscle communication.
 
 ### Types of Muscle Tissue:
 
@@ -51,6 +61,11 @@ Muscle contraction occurs through the sliding filament theory. Actin and myosin 
 1. Which type of muscle is responsible for involuntary contractions in the walls of organs?
 2. Name two major muscles of the upper body responsible for arm movement.
 3. Explain the sliding filament theory of muscle contraction.
+
+#### Reading Sources:
+1. Atlas of Human Anatomy, Sixth Edition - Frank H. Netter, M.D
+2. Grays Anatomy for Students 2nd Edition
+3. Sobotta Atlas Of Human Anatomy
 
 ### More Quiz?
 

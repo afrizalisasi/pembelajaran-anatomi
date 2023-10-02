@@ -51,6 +51,11 @@ The nervous system controls voluntary and involuntary actions, processes sensory
 2.	Which part of a neuron transmits signals away from the cell body?
 3.	Describe the role of sensory neurons.
 
+#### Reading Sources:
+1. Atlas of Human Anatomy, Sixth Edition - Frank H. Netter, M.D
+2. Grays Anatomy for Students 2nd Edition
+3. Sobotta Atlas Of Human Anatomy
+
 ### More Quiz?
 
 <Button label="Let's Go" link="/quiz" style="solid"/>

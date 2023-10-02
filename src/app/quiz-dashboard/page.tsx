@@ -6,6 +6,7 @@ import { getAuthSession } from "@/lib/nextauth";
 import { redirect } from "next/navigation";
 import React from "react";
 import { signIn } from "next-auth/react";
+import QuizBankCard from "@/components/quiz/QuizBank";
 
 type Props = {};
 
@@ -26,8 +27,9 @@ const Dasboard = async (props: Props) => {
         <h2 className="mr-2 text-3xl font-bold tracking-tight">Quiz</h2>
       </div>
 
-      <div className="grid gap-4 mt-4 md:grid-cols-2">
+      <div className="grid gap-4 mt-4 md:grid-cols-3">
         <QuizMeCard />
+        <QuizBankCard />
         <HistoryCard />
       </div>
       <div className="grid gap-4 mt-4 md:grid-cols-2 lg:grid-cols-7">
